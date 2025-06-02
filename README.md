@@ -20,7 +20,9 @@
 
 ## 🎬 شرح سريع
 
-![شرح استخدام البرنامج](images/demo.gif)
+[![شرح استخدام البرنامج](/images/Animation-hero-tool.gif)](/images/Animation-hero-tool.gif)
+
+)
 
 
 
