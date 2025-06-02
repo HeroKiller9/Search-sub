@@ -2,7 +2,6 @@
 <html lang="ar">
 <head>
     <meta charset="UTF-8">
-    <title>تحميل الأداة</title>
 </head>
 <body>
     <p>
