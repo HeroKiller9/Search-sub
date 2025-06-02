@@ -43,3 +43,11 @@
 
 شكراً لاستخدامك Hero Search Tool!  
 نياه 🌟
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+This project is licensed under the MIT License.  
+For detailed information, please refer to the [LICENSE](LICENSE) file.
+
